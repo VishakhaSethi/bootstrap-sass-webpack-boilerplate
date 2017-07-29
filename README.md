@@ -1,4 +1,4 @@
-## Boilerplate using Bootstrap - SASS - Webpack 3
+## Boilerplate using Bootstrap 4 - SASS - Webpack 3
 
 ### Run the following commands:
 npm install
