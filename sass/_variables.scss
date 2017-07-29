@@ -1,0 +1,52 @@
+/****************************************/
+/**** Screen sizes for media queries ****/
+/****************************************/
+$screen-xs-max:             350px;
+$screen-sm-min:             768px;
+$screen-md-min:             992px;
+$screen-lg-min:             1200px;
+
+/*********************************/
+/**** Basic color declaration ****/
+/*********************************/
+$black:                     #30373B;
+$green:                     #7AB55C;
+$red:                       #C23628;
+$grey:                      #A7A7A7;
+$white:                     #FFFFFF;
+
+/*********************************/
+/**** Font-family declaration ****/
+/*********************************/
+$font-family-roboto:                  'Roboto', sans-serif;
+$font-family-raleway:                 'Raleway', sans-serif;
+
+/*********************************/
+/**** Font-weight declaration ****/
+/*********************************/
+$font-weight-thin:          100;
+$font-weight-exlight:       200;
+$font-weight-light:         300;
+$font-weight-regular:       400;
+$font-weight-medium:        500;
+$font-weight-semibold:      600;
+$font-weight-bold:          700;
+$font-weight-exbold:        800;
+$font-weight-black:         900;
+
+/*******************************/
+/**** Font-size declaration ****/
+/*******************************/
+$font-9-size:               9px;
+$font-10-size:              10px;
+$font-12-size:              12px;
+$font-13-size:              13px;
+$font-14-size:              14px;
+$font-16-size:              16px;
+$font-18-size:              18px;
+$font-20-size:              20px;
+$font-21-size:              21px;
+$font-22-size:              22px;
+$font-24-size:              24px;
+$font-30-size:              30px;
+$font-32-size:              32px;

@@ -1,0 +1,48 @@
+// LAYOUT.scss
+
+/* Extra small devices (phones, less than 768px) */
+/* No media query since this is the default in Bootstrap */
+
+// HTML, BODY
+html {
+  font-size: 16px;
+}
+
+// BODY
+body {
+  font-family: $font-family-raleway;
+  line-height: normal;
+  color: $grey;
+  background-color: $white;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+
+// RESPONSIVE MEDIA
+img,
+embed,
+object,
+video {
+  max-width: 100%;
+}
+
+
+/* Small devices (tablets, 768px and up) */
+@media (min-width: $screen-sm-min) {
+
+
+}
+
+/* Medium devices (desktops, 992px and up) */
+@media (min-width: $screen-md-min) {
+
+}
+
+/* Large devices (large desktops, 1200px and up) */
+@media (min-width: $screen-lg-min) {
+
+}
