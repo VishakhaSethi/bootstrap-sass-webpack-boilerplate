@@ -1,6 +1,5 @@
 {
   "name": "bootstrap-sass-webpack-boilerplate",
-  "version": "1.0.0",
   "description": "Basic Boilerplate Project including bootstrap 4, SASS and webpack 2",
   "main": "",
   "scripts": {
